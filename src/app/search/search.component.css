@@ -1,0 +1,22 @@
+.search-div{
+    margin: 10px 10px;
+}
+input[type=text]{
+    width: 500px;
+    height: 30px;
+    margin-left: 10px;
+    margin-right: 300px;
+    border-radius: 0.5rem;
+    
+}
+.search{
+    color: #131515;
+    margin-left: 100px;
+}
+span{
+    color: #131515;
+}
+.changebackground{
+    background-color: #fad7a0;
+    height: 40px;
+}

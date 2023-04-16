@@ -1,0 +1,18 @@
+.header{
+    height: 280px;
+    padding: 30px 40px;
+    display: flex;
+    background-color: whitesmoke;
+}
+.site-slogan{
+    width: 420px;
+    margin: 0 auto;
+    text-align: center;
+}
+h2{
+    font-size: 45px;
+}
+.img{
+    margin-left: 150%;
+    width: 0px auto;
+}
